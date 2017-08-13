@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "description": "Starting point for angular 4+ applications using webpack as the build step",
+  "repository": "alexblunck/starter-angular",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack -p --env.production",
